@@ -1,0 +1,1 @@
+# stryker_mutation_testing
