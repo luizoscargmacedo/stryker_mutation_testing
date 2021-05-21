@@ -1,9 +1,7 @@
 # Stryker - Mutation Testing
 
-## README 
-
-# Mutation Testing 
-# Java Script - Jest - Stryker
+## Mutation Testing 
+## Java Script - Jest - Stryker
 
 It's fast, scalable, and integrates with modern tests and build tooling.
 Faults (or mutations) are automatically seeded into your code, then your tests are run. 
@@ -26,7 +24,6 @@ _____________________________________________
 ### Installation ###
 JEST
    - url: https://archive.jestjs.io/docs/en/22.x/getting-started.html
-     npm install jest-cli --save-dev
 
     To install  (Terminal command):
     ```sh
