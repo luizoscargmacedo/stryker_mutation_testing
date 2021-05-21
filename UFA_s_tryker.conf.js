@@ -1,6 +1,6 @@
 module.exports=function (config) {
     config.set({
-        mutator:"javascript",
+        //mutator:"javascript",
         packageManager: "npm",
         commandRunner: {
             command: "npm run test"
@@ -12,6 +12,6 @@ module.exports=function (config) {
         },
         mutate: ["warrior/*.js", "!warrior/warrior.js"],
         timeoutMS: 10000,
-        maxConcurrentTestRunners: 1
+        concurrency: 1
     });
 };

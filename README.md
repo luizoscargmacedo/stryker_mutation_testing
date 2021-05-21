@@ -35,7 +35,7 @@ Stryker Mutation Testing
 
     To install  (Terminal command):
     ```sh
-    npm i --save-dev @stryker-mutator/core @stryker-mutator/jest-runner @stryker-mutator/html-reporter @stryker-mutator/javascript-mutator
+    npm i --save-dev @stryker-mutator/core @stryker-mutator/jest-runner 
     ```
 
 _____________________________________________
