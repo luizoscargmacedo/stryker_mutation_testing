@@ -28,13 +28,14 @@ JEST
    - url: https://archive.jestjs.io/docs/en/22.x/getting-started.html
      npm install jest-cli --save-dev
 
+    To install  (Terminal command):
+    ```sh
+    npm install jest-cli --save-dev
+    ```
+
 Stryker Mutation Testing
    - url: https://stryker-mutator.io/
 
-To Run (Terminal command):
-```sh
-npm test
-```
 _____________________________________________
 
 ### Configuration Project ###
@@ -48,11 +49,11 @@ _____________________________________________
 
 
 ### Execution Project ###
- Maven
-  - url: https://www.jetbrains.com/help/idea/work-with-tests-in-maven.html
-  
- JUnit
-  - url: https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html
+
+To Run (Terminal command):
+```sh
+npm test
+```
   
 _____________________________________________
   
