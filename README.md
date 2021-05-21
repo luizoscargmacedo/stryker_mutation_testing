@@ -33,6 +33,11 @@ JEST
 Stryker Mutation Testing
    - url: https://stryker-mutator.io/
 
+    To install  (Terminal command):
+    ```sh
+    npm i --save-dev @stryker-mutator/core @stryker-mutator/jest-runner @stryker-mutator/html-reporter @stryker-mutator/javascript-mutator
+    ```
+
 _____________________________________________
 
 ### Configuration Project ###
@@ -47,9 +52,14 @@ _____________________________________________
 
 ### Execution Project ###
 
-To Run (Terminal command):
+To Run the unit test (Terminal command):
 ```sh
 npm test
+```
+
+To Run the unit test (Terminal command):
+```sh
+npx stryker run
 ```
   
 _____________________________________________
