@@ -16,7 +16,7 @@ It is a good practice to validate your Unit Testing with a mutant before CI/CD, 
 
 Video: xxxxxxxxxxxxxxxxx
 
-#### Frameworks básicos: 
+#### Frameworks: 
 - Node.js, Jest and Stryker
 _____________________________________________
 
